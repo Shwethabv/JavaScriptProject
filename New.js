@@ -24,6 +24,7 @@ function myfunction(){
     console.log(str2.padStart(4,0));
 
     console.log("HOME".split(""));
+    console.log("HOME".split(""));
 }
 
 myfunction();
